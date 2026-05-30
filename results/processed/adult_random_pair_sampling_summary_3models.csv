@@ -1,0 +1,4 @@
+baseline,dataset,model,sensitive_attribute,include_sensitive_model,n_samples,flip_count,flip_rate,runtime_sec,accuracy,f1,train_time_sec,test_size
+random_pair_sampling,adult,tree,sex,True,500,0,0.0,8.377377033233643,0.8520361157177078,0.624590930341281,0.3647308349609375,16281
+random_pair_sampling,adult,logreg,sex,True,500,42,0.084,7.359797954559326,0.8507462686567164,0.6501583645263461,1.2525429725646973,16281
+random_pair_sampling,adult,rulelist,sex,True,500,0,0.0,7.766291856765747,0.8447884036607088,0.606814999222032,0.3569760322570801,16281

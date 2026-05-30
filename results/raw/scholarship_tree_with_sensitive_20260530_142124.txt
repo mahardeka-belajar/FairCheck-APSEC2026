@@ -1,0 +1,11 @@
+model: tree
+include_sensitive: True
+sensitive_attribute: Asal_Daerah
+accuracy: 0.855
+f1: 0.7289719626168224
+train_time_sec: 0.03792095184326172
+prediction_time_sec: 0.009304285049438477
+dp_gap: 0.10991022400418374
+cf_flip_rate: None
+cf_flips: None
+dp_rates: {'3T': 0.3246753246753247, 'Pedesaan': 0.21476510067114093, 'Perkotaan': 0.28160919540229884}

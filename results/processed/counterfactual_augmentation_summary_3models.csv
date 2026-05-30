@@ -1,0 +1,4 @@
+baseline,model,sensitive_attribute,include_sensitive_model,total_checks,flip_count,flip_rate,runtime_sec,accuracy,f1,train_time_sec,test_size
+counterfactual_augmentation,tree,Asal_Daerah,True,800,0,0.0,8.34207820892334,0.855,0.7289719626168224,0.04435110092163086,400
+counterfactual_augmentation,logreg,Asal_Daerah,True,800,4,0.005,8.30040192604065,0.915,0.839622641509434,0.05458498001098633,400
+counterfactual_augmentation,rulelist,Asal_Daerah,True,800,0,0.0,8.616109848022461,0.7875,0.6046511627906976,0.030183076858520508,400

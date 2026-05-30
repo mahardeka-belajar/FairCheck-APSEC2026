@@ -1,0 +1,11 @@
+model: logreg
+include_sensitive: True
+sensitive_attribute: Asal_Daerah
+accuracy: 0.915
+f1: 0.839622641509434
+train_time_sec: 0.0520780086517334
+prediction_time_sec: 0.009538888931274414
+dp_gap: 0.052456992980020045
+cf_flip_rate: None
+cf_flips: None
+dp_rates: {'3T': 0.24675324675324675, 'Pedesaan': 0.2348993288590604, 'Perkotaan': 0.28735632183908044}

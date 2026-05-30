@@ -1,0 +1,4 @@
+baseline,dataset,model,sensitive_attribute,include_sensitive_model,top_k,total_checks,flip_count,flip_rate,runtime_sec,accuracy,f1,train_time_sec,test_size
+boundary_focused_sampling,adult,tree,sex,True,500,500,0,0.0,15.102199792861938,0.8520361157177078,0.624590930341281,0.32427501678466797,16281
+boundary_focused_sampling,adult,logreg,sex,True,500,500,252,0.504,14.457584857940674,0.8507462686567164,0.6501583645263461,1.2791330814361572,16281
+boundary_focused_sampling,adult,rulelist,sex,True,500,500,0,0.0,13.918293714523315,0.8447884036607088,0.606814999222032,0.3581278324127197,16281

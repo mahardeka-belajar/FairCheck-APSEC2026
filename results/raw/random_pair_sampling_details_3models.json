@@ -1,0 +1,5402 @@
+[
+  {
+    "model": "tree",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 10,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 110,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 89,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 294,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 270,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 356,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 34,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 11,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 87,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 202,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 10,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 79,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 217,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 88,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 235,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 323,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 2,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 279,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 136,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 62,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 382,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 134,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 37,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 38,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 338,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 241,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 214,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 389,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 151,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 220,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 331,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 247,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 230,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 281,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 18,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 115,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 31,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 93,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 40,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 111,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 254,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 145,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 148,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 83,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 374,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 243,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 68,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 65,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 151,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 395,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 222,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 273,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 337,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 310,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 12,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 126,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 107,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 84,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 377,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 350,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 125,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 262,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 158,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 365,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 183,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 98,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 224,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 233,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 359,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 159,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 87,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 399,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 203,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 36,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 18,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 43,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 250,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 316,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 25,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 152,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 398,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 211,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 388,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 4,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 288,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 272,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 214,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 256,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 44,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 173,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 181,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 381,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 350,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 200,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 71,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 365,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 348,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 119,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 243,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 61,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 305,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 215,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 311,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 212,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 0,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 129,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 7,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 371,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 351,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 332,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 123,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 23,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 351,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 378,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 34,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 194,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 27,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 304,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 306,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 51,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 190,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 219,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 348,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 169,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 84,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 215,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 80,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 124,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 398,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 175,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 207,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 48,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 89,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 135,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 235,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 92,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 88,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 28,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 252,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 362,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 343,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 28,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 95,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 267,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 85,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 52,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 374,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 228,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 189,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 313,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 76,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 38,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 172,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 169,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 186,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 269,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 393,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 39,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 161,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 135,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 99,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 76,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 179,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 111,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 99,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 369,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 177,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 220,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 20,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 399,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 334,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 10,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 110,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 89,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 294,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 270,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 356,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 34,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 11,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 87,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 202,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 10,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 79,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 217,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 88,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 235,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 323,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 2,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 279,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 136,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 62,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 382,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 134,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 37,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 38,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 338,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 241,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 214,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 389,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 151,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 220,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 331,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 247,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 230,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 281,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 18,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 115,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 31,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 93,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 40,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 111,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 254,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 145,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 148,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 83,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 374,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 243,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 68,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 65,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 151,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 395,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 222,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 273,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 337,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 310,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 12,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 126,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 107,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 84,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 377,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 350,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 125,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 262,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 158,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 365,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 183,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 98,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 224,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 233,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 359,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 159,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 87,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 399,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 203,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 36,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 18,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 43,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 250,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 316,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 25,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 152,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 398,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 211,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 388,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 4,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 288,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 272,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 214,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 256,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 44,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 173,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 181,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 381,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 350,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 200,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 71,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 365,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 348,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 119,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 243,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 61,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 305,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 215,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 311,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 212,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 0,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 129,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 7,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 371,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 351,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 332,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 123,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 23,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 351,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 378,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 34,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 194,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 27,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 304,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 306,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 51,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 190,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 219,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 348,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 169,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 84,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 215,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 80,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 124,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 398,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 175,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 207,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 48,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 89,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 135,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 235,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 92,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 88,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 28,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 252,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 362,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 343,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 28,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 95,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 267,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 85,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 52,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 374,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 228,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 189,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 313,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 76,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 38,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 172,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 169,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 186,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 269,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 393,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 39,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 161,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 135,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 99,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 76,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 179,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 111,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 99,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 369,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 177,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 220,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 20,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 399,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 334,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 10,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 110,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 89,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 294,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 270,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 356,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 34,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 11,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 87,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 202,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 10,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 79,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 217,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 88,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 235,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 323,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 2,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 279,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 136,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 62,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 382,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 134,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 37,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 38,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 338,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 241,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 214,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 389,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 151,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 220,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 331,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 247,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 230,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 281,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 18,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 115,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 31,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 93,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 40,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 111,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 254,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 145,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 148,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 83,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 374,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 243,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 68,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 65,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 151,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 395,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 222,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 273,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 337,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 310,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 12,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 126,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 107,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 84,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 377,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 350,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 125,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 262,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 158,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 365,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 183,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 98,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 224,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 233,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 359,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 159,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 87,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 399,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 203,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 36,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 18,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 43,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 250,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 316,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 25,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 152,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 398,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 211,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 388,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 4,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 288,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 272,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 214,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 256,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 44,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 173,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 181,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 381,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 350,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 105,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 200,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 71,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 365,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 348,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 119,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 255,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 243,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 61,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 305,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 215,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 311,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 212,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 0,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 129,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 7,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 371,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 351,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 332,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 123,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 23,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 351,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 378,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 34,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 194,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 27,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 304,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 306,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 51,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 190,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 219,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 106,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 348,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 169,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 84,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 215,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 80,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 124,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 398,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 259,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 175,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 207,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 48,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 89,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 135,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 235,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 92,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 88,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 28,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 252,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 91,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 362,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 343,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 28,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 95,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 267,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 85,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 52,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 374,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 228,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 189,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 313,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 322,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 76,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 38,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 172,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 169,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 186,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 291,
+    "orig_group": "3T",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 269,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 393,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 39,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 161,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 135,
+    "orig_group": "3T",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 99,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 76,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 179,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 168,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 111,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 99,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 369,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 177,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 344,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 220,
+    "orig_group": "Pedesaan",
+    "alt_group": "Perkotaan",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 20,
+    "orig_group": "Pedesaan",
+    "alt_group": "3T",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 399,
+    "orig_group": "Perkotaan",
+    "alt_group": "3T",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 334,
+    "orig_group": "Perkotaan",
+    "alt_group": "Pedesaan",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  }
+]

@@ -1,0 +1,11 @@
+model: tree
+include_sensitive: False
+sensitive_attribute: Asal_Daerah
+accuracy: 0.855
+f1: 0.7289719626168224
+train_time_sec: 0.10326004028320312
+prediction_time_sec: 0.008372068405151367
+dp_gap: None
+cf_flip_rate: None
+cf_flips: None
+dp_rates: {}

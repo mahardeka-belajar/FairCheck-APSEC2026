@@ -1,0 +1,8102 @@
+[
+  {
+    "model": "tree",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 7,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 82,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 220,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 203,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 267,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 26,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 8,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 65,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 151,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 7,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 59,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 163,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 176,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 1,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 241,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 209,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 102,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 46,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 287,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 100,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 254,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 181,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 160,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 291,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 248,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 185,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 173,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 211,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 13,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 86,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 23,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 69,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 30,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 190,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 109,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 111,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 62,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 182,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 51,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 49,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 296,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 167,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 205,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 252,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 232,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 9,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 282,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 262,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 196,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 118,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 274,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 137,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 73,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 168,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 78,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 269,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 119,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 65,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 152,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 14,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 32,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 188,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 237,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 19,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 114,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 158,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 291,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 3,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 216,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 204,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 192,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 33,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 130,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 136,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 286,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 262,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 150,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 53,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 273,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 261,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 182,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 45,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 228,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 233,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 159,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 0,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 97,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 5,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 278,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 249,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 92,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 284,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 25,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 145,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 20,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 228,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 229,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 38,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 142,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 164,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 261,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 60,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 93,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 131,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 155,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 36,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 67,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 101,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 176,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 69,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 189,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 271,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 257,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 71,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 200,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 64,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 39,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 171,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 141,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 235,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 57,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 129,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 127,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 140,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 202,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 295,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 120,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 101,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 74,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 57,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 134,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 74,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 276,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 132,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 15,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 250,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 290,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 277,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 254,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 49,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 145,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 64,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 120,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 295,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 235,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 136,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 287,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 166,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 215,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 46,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 290,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 173,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 162,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 224,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 150,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 255,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 47,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 288,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 24,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 55,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 178,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 202,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 70,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 35,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 267,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 73,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 178,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 185,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 125,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 156,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 61,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 214,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 71,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 118,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 201,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 225,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 137,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 279,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 264,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 110,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 47,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 250,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 211,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 183,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 296,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 196,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 2,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 245,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 199,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 281,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 40,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 34,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 32,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 81,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 181,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 215,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 61,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 190,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 146,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 271,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 253,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 127,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 1,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 231,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 78,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 222,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 128,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 2,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 22,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "tree",
+    "row_index": 264,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 7,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 82,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 220,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 203,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 267,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 26,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 8,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 65,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 151,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 7,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 59,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 163,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 176,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 1,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 241,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 209,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 102,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 46,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 287,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 100,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 254,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 181,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 160,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 291,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 248,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 185,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 173,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 211,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 13,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 86,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 23,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 69,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 30,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 190,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 109,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 111,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 62,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 182,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 51,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 49,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 296,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 167,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 205,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 252,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 232,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 9,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 282,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 262,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 196,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 118,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 274,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 137,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 73,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 168,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 78,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 269,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 119,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 65,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 152,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 14,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 32,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 188,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 237,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 19,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 114,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 158,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 291,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 3,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 216,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 204,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 192,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 33,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 130,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 136,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 286,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 262,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 150,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 53,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 273,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 261,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 182,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 45,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 228,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 233,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 159,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 0,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 97,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 5,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 278,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 0,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 249,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 92,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 0,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 284,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 25,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 145,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 20,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 228,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 229,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 38,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 142,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 164,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 261,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 60,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 93,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 131,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 155,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 36,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 67,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 101,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 176,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 69,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 189,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 271,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 257,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 71,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 200,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 64,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 39,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 171,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 141,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 235,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 57,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 129,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 127,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 140,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 202,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 295,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 120,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 101,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 74,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 57,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 134,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 74,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 276,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 132,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 15,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 250,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 290,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 277,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 254,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 49,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 145,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 64,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 120,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 295,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 235,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 136,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 287,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 166,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 215,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 46,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 290,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 173,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 162,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 224,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 150,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 255,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 47,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 288,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 24,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 55,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 178,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 202,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 70,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 35,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 267,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 73,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 178,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 185,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 125,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 156,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 61,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 214,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 71,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 118,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 201,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 225,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 137,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 279,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 264,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 0,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 110,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 47,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 250,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 211,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 183,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 296,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 196,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 2,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 245,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 199,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 281,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 40,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 34,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 32,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 81,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 181,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 215,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 61,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 190,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 146,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 271,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 253,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 127,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 1,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 231,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 78,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 222,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 128,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 2,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "logreg",
+    "row_index": 22,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 1,
+    "flipped": 1
+  },
+  {
+    "model": "logreg",
+    "row_index": 264,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 7,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 82,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 220,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 203,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 267,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 26,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 8,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 65,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 151,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 7,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 59,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 163,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 176,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 1,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 241,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 209,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 102,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 46,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 287,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 100,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 254,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 181,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 160,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 291,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 248,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 185,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 173,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 211,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 13,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 86,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 23,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 69,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 30,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 190,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 109,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 111,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 62,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 182,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 51,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 49,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 296,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 167,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 205,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 252,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 232,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 9,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 282,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 262,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 196,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 118,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 274,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 137,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 73,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 168,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 78,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 269,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 119,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 65,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 152,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 14,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 32,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 188,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 237,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 19,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 114,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 158,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 291,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 3,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 216,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 204,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 80,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 192,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 33,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 130,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 136,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 286,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 262,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 150,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 53,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 273,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 261,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 182,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 45,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 228,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 233,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 159,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 0,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 97,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 5,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 278,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 249,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 92,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 284,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 25,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 145,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 20,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 228,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 229,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 38,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 142,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 164,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 261,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 161,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 60,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 93,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 194,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 131,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 155,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 36,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 67,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 101,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 176,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 69,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 66,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 189,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 68,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 271,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 257,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 71,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 200,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 64,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 39,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 171,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 141,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 235,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 242,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 57,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 129,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 127,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 140,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 218,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 202,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 295,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 29,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 120,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 101,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 74,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 57,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 134,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 74,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 276,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 132,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 258,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 15,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 250,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 290,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 277,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 254,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 49,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 145,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 64,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 120,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 113,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 295,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 235,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 136,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 126,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 287,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 166,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 215,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 46,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 290,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 173,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 162,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 224,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 17,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 150,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 255,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 47,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 288,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 24,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 55,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 178,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 202,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 70,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 35,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 267,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 73,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 178,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 185,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 125,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 175,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 156,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 280,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 61,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 214,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 71,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 118,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 201,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 94,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 225,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 137,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 299,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 298,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 21,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 63,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 279,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 264,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 263,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 110,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 47,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 250,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 211,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 183,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 296,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 196,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 2,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 245,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 89,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 199,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 281,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 40,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 34,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 32,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 81,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 181,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 215,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 61,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 190,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 79,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 146,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 271,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 253,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 27,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 127,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 83,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 1,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 231,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 191,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 78,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 222,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 165,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 128,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 2,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 22,
+    "orig_group": "female",
+    "alt_group": "male",
+    "pred_orig": 0,
+    "pred_cf": 0,
+    "flipped": 0
+  },
+  {
+    "model": "rulelist",
+    "row_index": 264,
+    "orig_group": "male",
+    "alt_group": "female",
+    "pred_orig": 1,
+    "pred_cf": 1,
+    "flipped": 0
+  }
+]

@@ -1,0 +1,4 @@
+baseline,dataset,model,sensitive_attribute,include_sensitive_model,top_k,total_checks,flip_count,flip_rate,runtime_sec,accuracy,f1,train_time_sec,test_size
+boundary_focused_sampling,german_credit,tree,sex,True,300,300,0,0.0,5.058068037033081,0.6966666666666667,0.7955056179775281,0.03010392189025879,300
+boundary_focused_sampling,german_credit,logreg,sex,True,300,300,7,0.023333333333333334,4.935063123703003,0.74,0.8211009174311927,0.04117703437805176,300
+boundary_focused_sampling,german_credit,rulelist,sex,True,300,300,0,0.0,4.822999000549316,0.7133333333333334,0.8193277310924371,0.019079208374023438,300

@@ -1,0 +1,11 @@
+model: logreg
+include_sensitive: False
+sensitive_attribute: Asal_Daerah
+accuracy: 0.9175
+f1: 0.8450704225352113
+train_time_sec: 0.04106497764587402
+prediction_time_sec: 0.008665084838867188
+dp_gap: None
+cf_flip_rate: None
+cf_flips: None
+dp_rates: {}

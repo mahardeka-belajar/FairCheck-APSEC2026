@@ -1,0 +1,4 @@
+baseline,dataset,model,sensitive_attribute,include_sensitive_model,total_checks,flip_count,flip_rate,runtime_sec,accuracy,f1,train_time_sec,test_size
+counterfactual_augmentation,adult,tree,sex,True,16281,0,0.0,251.6324019432068,0.8520361157177078,0.624590930341281,0.3097221851348877,16281
+counterfactual_augmentation,adult,logreg,sex,True,16281,1453,0.08924513236287697,277.2520098686218,0.8507462686567164,0.6501583645263461,1.2960679531097412,16281
+counterfactual_augmentation,adult,rulelist,sex,True,16281,0,0.0,273.95974922180176,0.8447884036607088,0.606814999222032,0.3651001453399658,16281
