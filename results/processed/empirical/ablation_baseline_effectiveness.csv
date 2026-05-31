@@ -1,0 +1,10 @@
+dataset,model,sensitive_attribute,random_flip_rate,counterfactual_flip_rate,boundary_flip_rate,strongest_baseline
+scholarship,Logistic Regression,Asal_Daerah,0.01,0.005,0.02,boundary_focused_sampling
+scholarship,Rule List,Asal_Daerah,0.0,0.0,0.0,random_pair_sampling
+scholarship,Decision Tree,Asal_Daerah,0.0,0.0,0.0,random_pair_sampling
+adult,Logistic Regression,sex,0.084,0.0892451323628769,0.504,boundary_focused_sampling
+adult,Rule List,sex,0.0,0.0,0.0,random_pair_sampling
+adult,Decision Tree,sex,0.0,0.0,0.0,random_pair_sampling
+german_credit,Logistic Regression,sex,0.04,0.0233333333333333,0.0233333333333333,random_pair_sampling
+german_credit,Rule List,sex,0.0,0.0,0.0,random_pair_sampling
+german_credit,Decision Tree,sex,0.0,0.0,0.0,random_pair_sampling

@@ -1,0 +1,25 @@
+{
+  "dataset": "adult",
+  "model": "Rule List",
+  "sensitive_attribute": "sex",
+  "rulelist_max_depth": 3,
+  "encoding_scope": "exact ordered rule-list over transformed feature space (one-hot categoricals + standardized numerics)",
+  "fairness_property": "existence of two inputs equal on all non-sensitive transformed features, different on sex, with different model predictions",
+  "overall_status": "UNSAT",
+  "num_rules": 8,
+  "pair_checks": [
+    {
+      "source_group": "Female",
+      "target_group": "Male",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Male",
+      "target_group": "Female",
+      "status": "unsat"
+    }
+  ],
+  "first_counterexample": null,
+  "n_train_rows": 32561,
+  "n_test_rows": 16281
+}

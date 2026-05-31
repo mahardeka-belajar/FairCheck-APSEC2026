@@ -1,0 +1,100 @@
+{
+  "dataset": "adult",
+  "model": "Logistic Regression",
+  "sensitive_attribute": "sex",
+  "encoding_scope": "exact linear threshold over transformed feature space (one-hot categoricals + standardized numerics)",
+  "fairness_property": "existence of two inputs equal on all non-sensitive transformed features, different on sex, with different model predictions",
+  "overall_status": "SAT",
+  "pair_checks": [
+    {
+      "source_group": "Female",
+      "target_group": "Male",
+      "status": "sat",
+      "score_x": "0",
+      "score_y": "10368279548611263/12500000000000000",
+      "prediction_x": 0,
+      "prediction_y": 1,
+      "example_x": {
+        "age": 38.58164675532078,
+        "fnlwgt": 1484704.999999985,
+        "education_num": 15.999999999999371,
+        "capital_gain": 1077.6488437087312,
+        "capital_loss": 87.303829734959,
+        "hours_per_week": 37.66761380793423,
+        "workclass": "State-gov",
+        "education": "10th",
+        "marital_status": "Divorced",
+        "occupation": "Adm-clerical",
+        "relationship": "Husband",
+        "race": "Asian-Pac-Islander",
+        "sex": "Female",
+        "native_country": "Cambodia"
+      },
+      "example_y": {
+        "age": 38.58164675532078,
+        "fnlwgt": 1484704.999999985,
+        "education_num": 15.999999999999371,
+        "capital_gain": 1077.6488437087312,
+        "capital_loss": 87.303829734959,
+        "hours_per_week": 37.66761380793423,
+        "workclass": "State-gov",
+        "education": "10th",
+        "marital_status": "Divorced",
+        "occupation": "Adm-clerical",
+        "relationship": "Husband",
+        "race": "Asian-Pac-Islander",
+        "sex": "Male",
+        "native_country": "Cambodia"
+      }
+    },
+    {
+      "source_group": "Male",
+      "target_group": "Female",
+      "status": "sat"
+    }
+  ],
+  "first_counterexample": {
+    "source_group": "Female",
+    "target_group": "Male",
+    "status": "sat",
+    "score_x": "0",
+    "score_y": "10368279548611263/12500000000000000",
+    "prediction_x": 0,
+    "prediction_y": 1,
+    "example_x": {
+      "age": 38.58164675532078,
+      "fnlwgt": 1484704.999999985,
+      "education_num": 15.999999999999371,
+      "capital_gain": 1077.6488437087312,
+      "capital_loss": 87.303829734959,
+      "hours_per_week": 37.66761380793423,
+      "workclass": "State-gov",
+      "education": "10th",
+      "marital_status": "Divorced",
+      "occupation": "Adm-clerical",
+      "relationship": "Husband",
+      "race": "Asian-Pac-Islander",
+      "sex": "Female",
+      "native_country": "Cambodia"
+    },
+    "example_y": {
+      "age": 38.58164675532078,
+      "fnlwgt": 1484704.999999985,
+      "education_num": 15.999999999999371,
+      "capital_gain": 1077.6488437087312,
+      "capital_loss": 87.303829734959,
+      "hours_per_week": 37.66761380793423,
+      "workclass": "State-gov",
+      "education": "10th",
+      "marital_status": "Divorced",
+      "occupation": "Adm-clerical",
+      "relationship": "Husband",
+      "race": "Asian-Pac-Islander",
+      "sex": "Male",
+      "native_country": "Cambodia"
+    }
+  },
+  "logreg_intercept": -3.226664034255293,
+  "n_train_rows": 32561,
+  "n_test_rows": 16281
+}

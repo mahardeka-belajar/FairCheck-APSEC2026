@@ -1,0 +1,24 @@
+{
+  "dataset": "german_credit",
+  "model": "Decision Tree",
+  "sensitive_attribute": "sex",
+  "tree_max_depth": 5,
+  "encoding_scope": "exact tree over transformed feature space (one-hot categoricals + standardized numerics)",
+  "fairness_property": "existence of two inputs equal on all non-sensitive transformed features, different on sex, with different model predictions",
+  "overall_status": "UNSAT",
+  "pair_checks": [
+    {
+      "source_group": "female",
+      "target_group": "male",
+      "status": "unsat"
+    },
+    {
+      "source_group": "male",
+      "target_group": "female",
+      "status": "unsat"
+    }
+  ],
+  "first_counterexample": null,
+  "n_train_rows": 700,
+  "n_test_rows": 300
+}

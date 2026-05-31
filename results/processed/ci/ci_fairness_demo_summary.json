@@ -1,0 +1,40 @@
+{
+  "dataset": "scholarship",
+  "interpretation": {
+    "UNSAT": "PASS (no counterexample found for the encoded fairness property)",
+    "SAT": "FAIL (counterexample found)",
+    "OTHER": "WARNING / INCONCLUSIVE"
+  },
+  "results": [
+    {
+      "dataset": "scholarship",
+      "model": "Decision Tree",
+      "sensitive_attribute": "Asal_Daerah",
+      "solver_status": "UNSAT",
+      "ci_status": "PASS",
+      "checked_pairs": 6,
+      "has_counterexample": false,
+      "counterexample_pair": null
+    },
+    {
+      "dataset": "scholarship",
+      "model": "Rule List",
+      "sensitive_attribute": "Asal_Daerah",
+      "solver_status": "UNSAT",
+      "ci_status": "PASS",
+      "checked_pairs": 6,
+      "has_counterexample": false,
+      "counterexample_pair": null
+    },
+    {
+      "dataset": "scholarship",
+      "model": "Logistic Regression",
+      "sensitive_attribute": "Asal_Daerah",
+      "solver_status": "SAT",
+      "ci_status": "FAIL",
+      "checked_pairs": 6,
+      "has_counterexample": true,
+      "counterexample_pair": "3T -> Pedesaan"
+    }
+  ]
+}

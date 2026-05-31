@@ -1,0 +1,4 @@
+dataset,model,sensitive_attribute,solver_status,ci_status,counterexample_pair,prediction_x,prediction_y,score_x_raw,score_y_raw,score_x_float,score_y_float,changed_features_count,changed_features
+scholarship,Logistic Regression,Asal_Daerah,SAT,FAIL,3T -> Pedesaan,0,1,0,19715089434651473/100000000000000000,0.0,0.19715089434651473,1,Asal_Daerah: 3T -> Pedesaan
+adult,Logistic Regression,sex,SAT,FAIL,Female -> Male,0,1,0,10368279548611263/12500000000000000,0.0,0.8294623638889012,1,sex: Female -> Male
+german_credit,Logistic Regression,sex,SAT,FAIL,female -> male,0,1,0,3727060284807609/40000000000000000,0.0,0.09317650712019022,1,sex: female -> male

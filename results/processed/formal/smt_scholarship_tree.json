@@ -1,0 +1,42 @@
+{
+  "dataset": "scholarship",
+  "model": "Decision Tree",
+  "sensitive_attribute": "Asal_Daerah",
+  "tree_max_depth": 5,
+  "encoding_scope": "exact tree over transformed feature space (one-hot categoricals + standardized numerics)",
+  "fairness_property": "existence of two inputs equal on all non-sensitive transformed features, different on Asal_Daerah, with different model predictions",
+  "overall_status": "UNSAT",
+  "pair_checks": [
+    {
+      "source_group": "3T",
+      "target_group": "Pedesaan",
+      "status": "unsat"
+    },
+    {
+      "source_group": "3T",
+      "target_group": "Perkotaan",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Pedesaan",
+      "target_group": "3T",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Pedesaan",
+      "target_group": "Perkotaan",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Perkotaan",
+      "target_group": "3T",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Perkotaan",
+      "target_group": "Pedesaan",
+      "status": "unsat"
+    }
+  ],
+  "first_counterexample": null
+}

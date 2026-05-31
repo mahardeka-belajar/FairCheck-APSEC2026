@@ -1,0 +1,142 @@
+{
+  "dataset": "scholarship",
+  "model": "Logistic Regression",
+  "sensitive_attribute": "Asal_Daerah",
+  "encoding_scope": "exact linear threshold over transformed feature space (one-hot categoricals + standardized numerics)",
+  "fairness_property": "existence of two inputs equal on all non-sensitive transformed features, different on Asal_Daerah, with different model predictions",
+  "overall_status": "SAT",
+  "pair_checks": [
+    {
+      "source_group": "3T",
+      "target_group": "Pedesaan",
+      "status": "sat",
+      "score_x": "0",
+      "score_y": "19715089434651473/100000000000000000",
+      "prediction_x": 0,
+      "prediction_y": 1,
+      "example_x": {
+        "IPK": 2.819370651831912,
+        "Semester": 4.4685,
+        "Pendapatan_Orang_Tua": 5328574.04,
+        "Jumlah_Tanggungan": 3.503,
+        "Jumlah_Kegiatan_Relawan": 2.4925,
+        "Skor_Motivasi_Tertulis": 99.99999999999386,
+        "Skor_Keaktifan_Kampus": 50.00000000001464,
+        "Rekam_Ketidakhadiran": 19.999999999999538,
+        "Skor_Literasi_Finansial": 99.99999999998096,
+        "Jurusan": "Manajemen",
+        "Pernah_Mengulang": "Ya",
+        "Pekerjaan_Orang_Tua": "Buruh",
+        "Status_Tempat_Tinggal": "Kontrak",
+        "Asal_Daerah": "3T",
+        "Aktif_Organisasi": "Tidak",
+        "Pengalaman_Magang": "Tidak",
+        "Surat_Rekomendasi": "Ada",
+        "Pernah_Mendapat_Beasiswa": "Tidak",
+        "Pernah_Melawan_Hukum": "Tidak",
+        "Jenis_Kelamin": "Laki-laki"
+      },
+      "example_y": {
+        "IPK": 2.819370651831912,
+        "Semester": 4.4685,
+        "Pendapatan_Orang_Tua": 5328574.04,
+        "Jumlah_Tanggungan": 3.503,
+        "Jumlah_Kegiatan_Relawan": 2.4925,
+        "Skor_Motivasi_Tertulis": 99.99999999999386,
+        "Skor_Keaktifan_Kampus": 50.00000000001464,
+        "Rekam_Ketidakhadiran": 19.999999999999538,
+        "Skor_Literasi_Finansial": 99.99999999998096,
+        "Jurusan": "Manajemen",
+        "Pernah_Mengulang": "Ya",
+        "Pekerjaan_Orang_Tua": "Buruh",
+        "Status_Tempat_Tinggal": "Kontrak",
+        "Asal_Daerah": "Pedesaan",
+        "Aktif_Organisasi": "Tidak",
+        "Pengalaman_Magang": "Tidak",
+        "Surat_Rekomendasi": "Ada",
+        "Pernah_Mendapat_Beasiswa": "Tidak",
+        "Pernah_Melawan_Hukum": "Tidak",
+        "Jenis_Kelamin": "Laki-laki"
+      }
+    },
+    {
+      "source_group": "3T",
+      "target_group": "Perkotaan",
+      "status": "sat"
+    },
+    {
+      "source_group": "Pedesaan",
+      "target_group": "3T",
+      "status": "sat"
+    },
+    {
+      "source_group": "Pedesaan",
+      "target_group": "Perkotaan",
+      "status": "sat"
+    },
+    {
+      "source_group": "Perkotaan",
+      "target_group": "3T",
+      "status": "sat"
+    },
+    {
+      "source_group": "Perkotaan",
+      "target_group": "Pedesaan",
+      "status": "sat"
+    }
+  ],
+  "first_counterexample": {
+    "source_group": "3T",
+    "target_group": "Pedesaan",
+    "status": "sat",
+    "score_x": "0",
+    "score_y": "19715089434651473/100000000000000000",
+    "prediction_x": 0,
+    "prediction_y": 1,
+    "example_x": {
+      "IPK": 2.819370651831912,
+      "Semester": 4.4685,
+      "Pendapatan_Orang_Tua": 5328574.04,
+      "Jumlah_Tanggungan": 3.503,
+      "Jumlah_Kegiatan_Relawan": 2.4925,
+      "Skor_Motivasi_Tertulis": 99.99999999999386,
+      "Skor_Keaktifan_Kampus": 50.00000000001464,
+      "Rekam_Ketidakhadiran": 19.999999999999538,
+      "Skor_Literasi_Finansial": 99.99999999998096,
+      "Jurusan": "Manajemen",
+      "Pernah_Mengulang": "Ya",
+      "Pekerjaan_Orang_Tua": "Buruh",
+      "Status_Tempat_Tinggal": "Kontrak",
+      "Asal_Daerah": "3T",
+      "Aktif_Organisasi": "Tidak",
+      "Pengalaman_Magang": "Tidak",
+      "Surat_Rekomendasi": "Ada",
+      "Pernah_Mendapat_Beasiswa": "Tidak",
+      "Pernah_Melawan_Hukum": "Tidak",
+      "Jenis_Kelamin": "Laki-laki"
+    },
+    "example_y": {
+      "IPK": 2.819370651831912,
+      "Semester": 4.4685,
+      "Pendapatan_Orang_Tua": 5328574.04,
+      "Jumlah_Tanggungan": 3.503,
+      "Jumlah_Kegiatan_Relawan": 2.4925,
+      "Skor_Motivasi_Tertulis": 99.99999999999386,
+      "Skor_Keaktifan_Kampus": 50.00000000001464,
+      "Rekam_Ketidakhadiran": 19.999999999999538,
+      "Skor_Literasi_Finansial": 99.99999999998096,
+      "Jurusan": "Manajemen",
+      "Pernah_Mengulang": "Ya",
+      "Pekerjaan_Orang_Tua": "Buruh",
+      "Status_Tempat_Tinggal": "Kontrak",
+      "Asal_Daerah": "Pedesaan",
+      "Aktif_Organisasi": "Tidak",
+      "Pengalaman_Magang": "Tidak",
+      "Surat_Rekomendasi": "Ada",
+      "Pernah_Mendapat_Beasiswa": "Tidak",
+      "Pernah_Melawan_Hukum": "Tidak",
+      "Jenis_Kelamin": "Laki-laki"
+    }
+  },
+  "logreg_intercept": -5.077013958510794
+}

@@ -1,0 +1,43 @@
+{
+  "dataset": "scholarship",
+  "model": "Rule List",
+  "sensitive_attribute": "Asal_Daerah",
+  "rulelist_max_depth": 3,
+  "encoding_scope": "exact ordered rule-list over transformed feature space (one-hot categoricals + standardized numerics)",
+  "fairness_property": "existence of two inputs equal on all non-sensitive transformed features, different on Asal_Daerah, with different model predictions",
+  "overall_status": "UNSAT",
+  "num_rules": 8,
+  "pair_checks": [
+    {
+      "source_group": "3T",
+      "target_group": "Pedesaan",
+      "status": "unsat"
+    },
+    {
+      "source_group": "3T",
+      "target_group": "Perkotaan",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Pedesaan",
+      "target_group": "3T",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Pedesaan",
+      "target_group": "Perkotaan",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Perkotaan",
+      "target_group": "3T",
+      "status": "unsat"
+    },
+    {
+      "source_group": "Perkotaan",
+      "target_group": "Pedesaan",
+      "status": "unsat"
+    }
+  ],
+  "first_counterexample": null
+}
