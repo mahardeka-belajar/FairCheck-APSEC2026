@@ -1,0 +1,2 @@
+dataset,model,samples_checked,mismatch_count,match_rate
+adult,Rule List,1000,0,100.0

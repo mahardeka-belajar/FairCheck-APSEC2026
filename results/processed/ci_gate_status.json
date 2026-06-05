@@ -1,0 +1,29 @@
+{
+  "generated_at_utc": "2026-06-05T01:01:21.896502Z",
+  "overall_status": "FAIL",
+  "exit_code": 1,
+  "counts": {
+    "pass": 6,
+    "fail": 3,
+    "warning": 0,
+    "total": 9
+  },
+  "failed_models": [
+    "scholarship / Logistic Regression",
+    "adult / Logistic Regression",
+    "german_credit / Logistic Regression"
+  ],
+  "warning_models": [],
+  "passed_models": [
+    "scholarship / Decision Tree",
+    "scholarship / Rule List",
+    "adult / Decision Tree",
+    "adult / Rule List",
+    "german_credit / Decision Tree",
+    "german_credit / Rule List"
+  ],
+  "inputs": {
+    "formal_solver_summary_json": "results/processed/formal/formal_solver_summary.json",
+    "formal_counterexample_report_json": "results/processed/formal/formal_counterexample_report.json"
+  }
+}

@@ -1,0 +1,35 @@
+name: FairCheck-CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  fairness-verification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run CI Gate
+        run: |
+          python ci/ci_gate_runner.py || true
+
+      - name: Upload Reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: faircheck-artifacts
+          path: |
+            results/processed/ci/
+            results/processed/formal/
+

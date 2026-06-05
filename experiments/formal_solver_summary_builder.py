@@ -10,19 +10,19 @@ import pandas as pd
 
 INPUT_FILES = {
     'scholarship': {
-        'Decision Tree': 'results/processed/smt_scholarship_tree.json',
-        'Rule List': 'results/processed/smt_scholarship_rulelist.json',
-        'Logistic Regression': 'results/processed/smt_scholarship_logreg.json',
+        'Decision Tree': 'results/processed/formal/smt_scholarship_tree.json',
+        'Rule List': 'results/processed/formal/smt_scholarship_rulelist.json',
+        'Logistic Regression': 'results/processed/formal/smt_scholarship_logreg.json',
     },
     'adult': {
-        'Decision Tree': 'results/processed/smt_adult_tree.json',
-        'Rule List': 'results/processed/smt_adult_rulelist.json',
-        'Logistic Regression': 'results/processed/smt_adult_logreg.json',
+        'Decision Tree': 'results/processed/formal/smt_adult_tree.json',
+        'Rule List': 'results/processed/formal/smt_adult_rulelist.json',
+        'Logistic Regression': 'results/processed/formal/smt_adult_logreg.json',
     },
     'german_credit': {
-        'Decision Tree': 'results/processed/smt_german_tree.json',
-        'Rule List': 'results/processed/smt_german_rulelist.json',
-        'Logistic Regression': 'results/processed/smt_german_logreg.json',
+        'Decision Tree': 'results/processed/formal/smt_german_tree.json',
+        'Rule List': 'results/processed/formal/smt_german_rulelist.json',
+        'Logistic Regression': 'results/processed/formal/smt_german_logreg.json',
     },
 }
 
@@ -71,11 +71,19 @@ def main():
                 'dataset': obj.get('dataset', dataset),
                 'model': model_name,
                 'sensitive_attribute': obj.get('sensitive_attribute'),
+
+                'runtime_seconds': obj.get('runtime_seconds'),
+                'timeout': obj.get('timeout'),
+                'ce_bound': obj.get('ce_bound'),
+                'ce_found': obj.get('ce_found'),
+
                 'solver_status': solver_status,
                 'ci_status': ci_status,
+
                 'checked_pairs': len(pair_checks),
                 'has_counterexample': first_ce is not None,
                 'first_counterexample_pair': format_pair(first_ce),
+
                 'encoding_scope': obj.get('encoding_scope'),
                 'fairness_property': obj.get('fairness_property'),
             })
@@ -110,12 +118,20 @@ def main():
     lines.append('- **OTHER** = **WARNING / INCONCLUSIVE**\n')
 
     lines.append('## Cross-Dataset Solver Results\n')
-    lines.append('| Dataset | Model | Sensitive Attribute | Solver Status | CI Status | Checked Pairs | Counterexample Pair |')
-    lines.append('|---|---|---|---|---|---:|---|')
+    lines.append('| Dataset | Model | SMT Status | CI Status | CE Found | CE Bound | Runtime(s) | Timeout |')
+    lines.append('|---|---|---|---|---:|---:|---:|---|')
+    
     for _, r in out_df.iterrows():
-        ce_pair = r['first_counterexample_pair'] if pd.notna(r['first_counterexample_pair']) else 'None'
-        lines.append(f"| {r['dataset']} | {r['model']} | {r['sensitive_attribute']} | {r['solver_status']} | {r['ci_status']} | {r['checked_pairs']} | {ce_pair} |")
-
+        lines.append(
+            f"| {r['dataset']} "
+            f"| {r['model']} "
+            f"| {r['solver_status']} "
+            f"| {r['ci_status']} "
+            f"| {r['ce_found']} "
+            f"| {r['ce_bound']} "
+            f"| {r['runtime_seconds']} "
+            f"| {r['timeout']} |"
+        )
     pass_count = int((out_df['ci_status'] == 'PASS').sum())
     fail_count = int((out_df['ci_status'] == 'FAIL').sum())
     warn_count = int((out_df['ci_status'] == 'WARNING').sum())
