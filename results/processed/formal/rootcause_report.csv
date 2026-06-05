@@ -1,0 +1,4 @@
+dataset,model,sensitive_attribute,counterexample_pair,prediction_x,prediction_y,score_x_float,score_y_float,boundary_distance,root_cause,suggested_action
+scholarship,Logistic Regression,Asal_Daerah,3T -> Pedesaan,0,1,0.0,0.1971508943465147,0.1971508943465147,Sensitive region attribute change causes decision-boundary crossing,Remove regional attribute from training or apply fairness-aware retraining
+adult,Logistic Regression,sex,Female -> Male,0,1,0.0,0.8294623638889012,0.8294623638889012,Sensitive attribute change causes decision-boundary crossing,Remove sensitive attribute from training or apply fairness constraints
+german_credit,Logistic Regression,sex,female -> male,0,1,0.0,0.0931765071201902,0.0931765071201902,Sensitive attribute change causes decision-boundary crossing,Remove sensitive attribute from training or apply fairness constraints

@@ -3,8 +3,15 @@ from pathlib import Path
 import sys
 from datetime import datetime
 
-FORMAL_SUMMARY_JSON = 'results/processed/formal_solver_summary.json'
-COUNTEREXAMPLE_JSON = 'results/processed/formal_counterexample_report.json'
+FORMAL_SUMMARY_JSON = (
+    'results/processed/formal/'
+    'formal_solver_summary.json'
+)
+
+COUNTEREXAMPLE_JSON = (
+    'results/processed/formal/'
+    'formal_counterexample_report.json'
+)
 STATUS_JSON = 'results/processed/ci_gate_status.json'
 REPORT_MD = 'results/processed/ci_gate_report.md'
 

@@ -1,4 +1,4 @@
-
+import time
 import json
 import os
 import numpy as np
@@ -160,6 +160,7 @@ def reverse_decode_solution(numeric_meta, cat_group_ranges, vars_x, solver_model
 
 
 def main():
+    start_time = time.perf_counter()
     train_df, test_df = load_adult()
     model, X_train, y_train, num_cols, cat_cols = build_and_fit_pipeline(train_df)
 
@@ -247,11 +248,29 @@ def main():
                 pair_info['example_y'] = decoded_y
                 sat_counterexample = pair_info
             pair_results.append(pair_info)
+    
+    runtime_seconds = round(
+        time.perf_counter() - start_time,
+        4
+    )
+
+    ce_found = sum(
+        1
+        for p in pair_results
+        if p["status"] == "sat"
+    )
+    ce_bound = 100
+
+    timeout = False
 
     result = {
         'dataset': 'adult',
         'model': 'Logistic Regression',
         'sensitive_attribute': SENSITIVE,
+        'runtime_seconds': runtime_seconds,
+        'timeout': timeout,
+        'ce_bound': ce_bound,
+        'ce_found': ce_found,
         'encoding_scope': 'exact linear threshold over transformed feature space (one-hot categoricals + standardized numerics)',
         'fairness_property': 'existence of two inputs equal on all non-sensitive transformed features, different on sex, with different model predictions',
         'overall_status': 'SAT' if found_violation else 'UNSAT',

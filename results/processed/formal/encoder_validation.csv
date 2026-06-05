@@ -1,0 +1,4 @@
+dataset,model,samples_checked,mismatch_count,match_rate
+adult,Decision Tree,1000,0,100.0
+adult,Logistic Regression,1000,0,100.0
+adult,Rule List,1000,0,100.0
