@@ -1,12 +1,12 @@
 name: FairCheck-CI
 
 on:
-push:
-pull_request:
+  push:
+  pull_request:
 
 jobs:
-fairness-verification:
-runs-on: ubuntu-latest
+  fairness-verification:
+    runs-on: ubuntu-latest
 
 
 steps:
