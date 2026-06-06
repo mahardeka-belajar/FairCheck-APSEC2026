@@ -77,13 +77,13 @@ The CI gate expects the following consolidated inputs:
 ### 5.1 Formal solver summary
 
 ```text
-results/processed/formal_solver_summary.json
+results/processed/formal/formal_solver_summary.json
 ```
 
 ### 5.2 Formal counterexample report
 
 ```text
-results/processed/formal_counterexample_report.json
+results/processed/formal/formal_counterexample_report.json
 ```
 
 The final gate should not be run before these artifacts are available.

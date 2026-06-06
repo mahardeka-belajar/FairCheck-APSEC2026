@@ -15,7 +15,7 @@ FairCheck-CI is the repository-level fairness gate for the current project. It i
 At the current stage of the project, the final gate is driven by the formal solver artifacts produced for:
 
 - Scholarship
-n- Adult
+- Adult
 - German Credit
 
 across three model classes:
@@ -49,7 +49,7 @@ The final gate expects the following inputs to already exist:
 ### 3.1 Formal solver summary
 
 ```text
-results/processed/formal_solver_summary.json
+results/processed/formal/formal_solver_summary.json
 ```
 
 This artifact is generated from all solver results and contains the cross-dataset, cross-model formal status summary.
@@ -57,7 +57,7 @@ This artifact is generated from all solver results and contains the cross-datase
 ### 3.2 Formal counterexample report
 
 ```text
-results/processed/formal_counterexample_report.json
+results/processed/formal/formal_counterexample_report.json
 ```
 
 This artifact contains all SAT / FAIL cases and their detailed counterexamples.
@@ -151,8 +151,8 @@ A PASS result means all active solver checks returned **UNSAT**, so no fairness 
 
 A FAIL result means at least one solver check returned **SAT**, meaning a fairness counterexample exists. In that case, inspect:
 
-- `results/processed/formal_solver_summary.md`
-- `results/processed/formal_counterexample_report.md`
+- `results/processed/formal/formal_solver_summary.md`
+- `results/processed/formal/formal_counterexample_report.md`
 - `results/processed/ci_gate_report.md`
 
 ### WARNING / INCONCLUSIVE
@@ -222,14 +222,14 @@ cat results/processed/formal_counterexample_report.md
 ## 11. Related Files
 
 ### Formal summary
-- `results/processed/formal_solver_summary.csv`
-- `results/processed/formal_solver_summary.json`
-- `results/processed/formal_solver_summary.md`
+- `results/processed/formal/formal_solver_summary.csv`
+- `results/processed/formal/formal_solver_summary.json`
+- `results/processed/formal/formal_solver_summary.md`
 
 ### Counterexample report
-- `results/processed/formal_counterexample_report.csv`
-- `results/processed/formal_counterexample_report.json`
-- `results/processed/formal_counterexample_report.md`
+- `results/processed/formal/formal_counterexample_report.csv`
+- `results/processed/formal/formal_counterexample_report.json`
+- `results/processed/formal/formal_counterexample_report.md`
 
 ### Gate output
 - `results/processed/ci_gate_status.json`

@@ -4,7 +4,7 @@
 
 - **Overall gate status**: **FAIL**
 - **Exit code**: `1`
-- **Generated at (UTC)**: `2026-06-05T01:01:21.896502Z`
+- **Generated at (UTC)**: `2026-06-06T04:07:04.310312Z`
 
 ## Policy
 
@@ -35,7 +35,7 @@
 
 ## Gate Decision Rationale
 
-- The gate is marked **FAIL** because one or more solver checks returned **SAT**, meaning a fairness counterexample was found.
+- The gate is marked **FAIL** because one or more solver checks returned **SAT**.
 - **Failed models**: scholarship / Logistic Regression, adult / Logistic Regression, german_credit / Logistic Regression
 - **Passed models**: scholarship / Decision Tree, scholarship / Rule List, adult / Decision Tree, adult / Rule List, german_credit / Decision Tree, german_credit / Rule List
 
@@ -45,7 +45,16 @@
 - **adult / Logistic Regression** triggered **Female -> Male** with prediction change `0` -> `1`.
 - **german_credit / Logistic Regression** triggered **female -> male** with prediction change `0` -> `1`.
 
+## Encoder Validation
+
+- Total validation entries: 9
+- Total samples checked: 5100
+- Total mismatch count: 0
+- Overall match rate: 100.0%
+- Status: **PASS**
+
 ## Inputs
 
 - Formal solver summary: `results/processed/formal/formal_solver_summary.json`
 - Counterexample report: `results/processed/formal/formal_counterexample_report.json`
+- Encoder validation: `results/processed/formal/encoder_validation.csv`

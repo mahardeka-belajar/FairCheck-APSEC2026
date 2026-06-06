@@ -1,0 +1,2 @@
+dataset,model,samples_checked,mismatch_count,match_rate
+scholarship,Decision Tree,400,0,100.0

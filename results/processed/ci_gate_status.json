@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-05T01:01:21.896502Z",
+  "generated_at_utc": "2026-06-06T04:07:04.310312Z",
   "overall_status": "FAIL",
   "exit_code": 1,
   "counts": {
@@ -22,8 +22,16 @@
     "german_credit / Decision Tree",
     "german_credit / Rule List"
   ],
+  "encoder_validation": {
+    "rows": 9,
+    "mismatch": 0,
+    "samples": 5100,
+    "match_rate": 100.0,
+    "status": "PASS"
+  },
   "inputs": {
     "formal_solver_summary_json": "results/processed/formal/formal_solver_summary.json",
-    "formal_counterexample_report_json": "results/processed/formal/formal_counterexample_report.json"
+    "formal_counterexample_report_json": "results/processed/formal/formal_counterexample_report.json",
+    "encoder_validation_csv": "results/processed/formal/encoder_validation.csv"
   }
 }

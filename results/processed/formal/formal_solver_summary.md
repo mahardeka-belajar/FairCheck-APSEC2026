@@ -8,17 +8,17 @@
 
 ## Cross-Dataset Solver Results
 
-| Dataset | Model | Sensitive Attribute | Solver Status | CI Status | Checked Pairs | Counterexample Pair |
-|---|---|---|---|---|---:|---|
-| scholarship | Decision Tree | Asal_Daerah | UNSAT | PASS | 6 | None |
-| scholarship | Rule List | Asal_Daerah | UNSAT | PASS | 6 | None |
-| scholarship | Logistic Regression | Asal_Daerah | SAT | FAIL | 6 | 3T -> Pedesaan |
-| adult | Decision Tree | sex | UNSAT | PASS | 2 | None |
-| adult | Rule List | sex | UNSAT | PASS | 2 | None |
-| adult | Logistic Regression | sex | SAT | FAIL | 2 | Female -> Male |
-| german_credit | Decision Tree | sex | UNSAT | PASS | 2 | None |
-| german_credit | Rule List | sex | UNSAT | PASS | 2 | None |
-| german_credit | Logistic Regression | sex | SAT | FAIL | 2 | female -> male |
+| Dataset | Model | SMT Status | CI Status | CE Found | CE Bound | Runtime(s) | Timeout |
+|---|---|---|---|---:|---:|---:|---|
+| scholarship | Decision Tree | UNSAT | PASS | 0 | 100 | 0.3283 | False |
+| scholarship | Rule List | UNSAT | PASS | 0 | 100 | 0.2489 | False |
+| scholarship | Logistic Regression | SAT | FAIL | 6 | 100 | 0.3214 | False |
+| adult | Decision Tree | UNSAT | PASS | 0 | 100 | 1.1775 | False |
+| adult | Rule List | UNSAT | PASS | 0 | 100 | 0.874 | False |
+| adult | Logistic Regression | SAT | FAIL | 2 | 100 | 1.1302 | False |
+| german_credit | Decision Tree | UNSAT | PASS | 0 | 100 | 0.3058 | False |
+| german_credit | Rule List | UNSAT | PASS | 0 | 100 | 0.2763 | False |
+| german_credit | Logistic Regression | SAT | FAIL | 2 | 100 | 0.2988 | False |
 
 ## Aggregate Counts
 

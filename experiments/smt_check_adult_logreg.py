@@ -18,10 +18,11 @@ TRAIN_PATH = 'datasets/adult/adult.data'
 TEST_PATH = 'datasets/adult/adult.test'
 LABEL = 'income'
 SENSITIVE = 'sex'
-RESULT_PATH = 'results/processed/smt_adult_logreg.json'
+RESULT_PATH = 'results/processed/formal/smt_adult_logreg.json'
 LOGREG_MAX_ITER = 500
 
 os.makedirs('results/processed', exist_ok=True)
+os.makedirs('results/processed/formal', exist_ok=True)
 
 ADULT_COLUMNS = [
     'age', 'workclass', 'fnlwgt', 'education', 'education_num',

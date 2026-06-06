@@ -11,11 +11,11 @@
       "target_group": "Pedesaan",
       "status": "sat",
       "score_x": "0",
-      "score_y": "19715089434651473/100000000000000000",
+      "score_y": "9737166813447183/50000000000000000",
       "prediction_x": 0,
       "prediction_y": 1,
       "example_x": {
-        "IPK": 2.819370651831912,
+        "IPK": 2.8185707710906645,
         "Semester": 4.4685,
         "Pendapatan_Orang_Tua": 5328574.04,
         "Jumlah_Tanggungan": 3.503,
@@ -37,7 +37,7 @@
         "Jenis_Kelamin": "Laki-laki"
       },
       "example_y": {
-        "IPK": 2.819370651831912,
+        "IPK": 2.8185707710906645,
         "Semester": 4.4685,
         "Pendapatan_Orang_Tua": 5328574.04,
         "Jumlah_Tanggungan": 3.503,
@@ -85,16 +85,20 @@
       "status": "sat"
     }
   ],
+  "runtime_seconds": 0.3214,
+  "timeout": false,
+  "ce_bound": 100,
+  "ce_found": 6,
   "first_counterexample": {
     "source_group": "3T",
     "target_group": "Pedesaan",
     "status": "sat",
     "score_x": "0",
-    "score_y": "19715089434651473/100000000000000000",
+    "score_y": "9737166813447183/50000000000000000",
     "prediction_x": 0,
     "prediction_y": 1,
     "example_x": {
-      "IPK": 2.819370651831912,
+      "IPK": 2.8185707710906645,
       "Semester": 4.4685,
       "Pendapatan_Orang_Tua": 5328574.04,
       "Jumlah_Tanggungan": 3.503,
@@ -116,7 +120,7 @@
       "Jenis_Kelamin": "Laki-laki"
     },
     "example_y": {
-      "IPK": 2.819370651831912,
+      "IPK": 2.8185707710906645,
       "Semester": 4.4685,
       "Pendapatan_Orang_Tua": 5328574.04,
       "Jumlah_Tanggungan": 3.503,
@@ -138,5 +142,5 @@
       "Jenis_Kelamin": "Laki-laki"
     }
   },
-  "logreg_intercept": -5.077013958510794
+  "logreg_intercept": -5.069136295668095
 }

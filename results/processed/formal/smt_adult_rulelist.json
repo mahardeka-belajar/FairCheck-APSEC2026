@@ -19,6 +19,10 @@
       "status": "unsat"
     }
   ],
+  "runtime_seconds": 0.874,
+  "timeout": false,
+  "ce_bound": 100,
+  "ce_found": 0,
   "first_counterexample": null,
   "n_train_rows": 32561,
   "n_test_rows": 16281

@@ -1,4 +1,5 @@
 
+import time
 import json
 import os
 import numpy as np
@@ -18,9 +19,10 @@ CSV_PATH = 'datasets/scholarship/dataset_kelayakan_beasiswa.csv'
 LABEL = 'Status_Kelayakan'
 SENSITIVE = 'Asal_Daerah'   # multi-valued sensitive attribute: 3T / Pedesaan / Perkotaan
 LEAKAGE_COL = 'Jumlah_Beasiswa_Per_Semester'
-RESULT_PATH = 'results/processed/smt_scholarship_logreg.json'
+RESULT_PATH = 'results/processed/formal/smt_scholarship_logreg.json'
 
 os.makedirs('results/processed', exist_ok=True)
+os.makedirs('results/processed/formal', exist_ok=True)
 
 RANDOM_STATE = 42
 LOGREG_MAX_ITER = 500
@@ -137,6 +139,7 @@ def reverse_decode_solution(numeric_meta, cat_group_ranges, vars_x, solver_model
 
 
 def main():
+    start_time = time.perf_counter()
     df = load_data()
     model, X, y, num_cols, cat_cols = build_and_fit_pipeline(df)
 
@@ -227,6 +230,21 @@ def main():
                 sat_counterexample = pair_info
             pair_results.append(pair_info)
 
+    runtime_seconds = round(
+        time.perf_counter() - start_time,
+        4
+    )
+
+    ce_found = sum(
+        1
+        for p in pair_results
+        if p["status"] == "sat"
+    )
+
+    ce_bound = 100
+
+    timeout = False
+
     result = {
         'dataset': 'scholarship',
         'model': 'Logistic Regression',
@@ -235,6 +253,10 @@ def main():
         'fairness_property': 'existence of two inputs equal on all non-sensitive transformed features, different on Asal_Daerah, with different model predictions',
         'overall_status': 'SAT' if found_violation else 'UNSAT',
         'pair_checks': pair_results,
+        'runtime_seconds': runtime_seconds,
+        'timeout': timeout,
+        'ce_bound': ce_bound,
+        'ce_found': ce_found,
         'first_counterexample': sat_counterexample,
         'logreg_intercept': float(intercept),
     }

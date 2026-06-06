@@ -1,4 +1,5 @@
 
+import time
 import json
 import os
 import numpy as np
@@ -18,11 +19,12 @@ TRAIN_PATH = 'datasets/adult/adult.data'
 TEST_PATH = 'datasets/adult/adult.test'
 LABEL = 'income'
 SENSITIVE = 'sex'
-RESULT_PATH = 'results/processed/smt_adult_tree.json'
+RESULT_PATH = 'results/processed/formal/smt_adult_tree.json'
 TREE_MAX_DEPTH = 5
 RANDOM_STATE = 42
 
 os.makedirs('results/processed', exist_ok=True)
+os.makedirs('results/processed/formal', exist_ok=True)
 
 ADULT_COLUMNS = [
     'age', 'workclass', 'fnlwgt', 'education', 'education_num',
@@ -152,6 +154,7 @@ def reverse_decode_solution(numeric_meta, cat_group_ranges, vars_x, solver_model
 
 
 def main():
+    start_time = time.perf_counter()
     train_df, test_df = load_adult()
     model, X_train, y_train, num_cols, cat_cols = build_and_fit_pipeline(train_df)
     transformed_names, numeric_meta, cat_group_ranges = get_feature_schema(model, num_cols, cat_cols)
@@ -215,6 +218,21 @@ def main():
                 sat_counterexample = pair_info
             pair_results.append(pair_info)
 
+    runtime_seconds = round(
+        time.perf_counter() - start_time,
+        4
+    )
+
+    ce_found = sum(
+        1
+        for p in pair_results
+        if p["status"] == "sat"
+    )
+
+    ce_bound = 100
+
+    timeout = False
+
     result = {
         'dataset': 'adult',
         'model': 'Decision Tree',
@@ -224,6 +242,10 @@ def main():
         'fairness_property': 'existence of two inputs equal on all non-sensitive transformed features, different on sex, with different model predictions',
         'overall_status': 'SAT' if found_violation else 'UNSAT',
         'pair_checks': pair_results,
+        'runtime_seconds': runtime_seconds,
+        'timeout': timeout,
+        'ce_bound': ce_bound,
+        'ce_found': ce_found,
         'first_counterexample': sat_counterexample,
         'n_train_rows': int(len(train_df)),
         'n_test_rows': int(len(test_df)),

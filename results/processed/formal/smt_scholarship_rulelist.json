@@ -39,5 +39,9 @@
       "status": "unsat"
     }
   ],
+  "runtime_seconds": 0.2489,
+  "timeout": false,
+  "ce_bound": 100,
+  "ce_found": 0,
   "first_counterexample": null
 }

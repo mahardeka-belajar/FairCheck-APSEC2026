@@ -3,3 +3,9 @@
 | adult | Decision Tree | 1000 | 0 | 100.0 |
 | adult | Logistic Regression | 1000 | 0 | 100.0 |
 | adult | Rule List | 1000 | 0 | 100.0 |
+| german_credit | Decision Tree | 300 | 0 | 100.0 |
+| german_credit | Logistic Regression | 300 | 0 | 100.0 |
+| german_credit | Rule List | 300 | 0 | 100.0 |
+| scholarship | Decision Tree | 400 | 0 | 100.0 |
+| scholarship | Logistic Regression | 400 | 0 | 100.0 |
+| scholarship | Rule List | 400 | 0 | 100.0 |

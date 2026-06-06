@@ -26,9 +26,9 @@ INPUT_FILES = {
     },
 }
 
-CSV_OUT = 'results/processed/formal_solver_summary.csv'
-MD_OUT = 'results/processed/formal_solver_summary.md'
-JSON_OUT = 'results/processed/formal_solver_summary.json'
+CSV_OUT = 'results/processed/formal/formal_solver_summary.csv'
+MD_OUT = 'results/processed/formal/formal_solver_summary.md'
+JSON_OUT = 'results/processed/formal/formal_solver_summary.json'
 
 
 def must_load_json(path: str):

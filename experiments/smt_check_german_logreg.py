@@ -1,4 +1,5 @@
 
+import time
 import json
 import os
 import numpy as np
@@ -18,12 +19,13 @@ from sklearn.model_selection import train_test_split
 DATA_PATH = 'datasets/german_credit/german.data'
 LABEL = 'class'
 SENSITIVE = 'sex'
-RESULT_PATH = 'results/processed/smt_german_logreg.json'
+RESULT_PATH = 'results/processed/formal/smt_german_logreg.json'
 LOGREG_MAX_ITER = 500
 RANDOM_STATE = 42
 TEST_SIZE = 0.3
 
 os.makedirs('results/processed', exist_ok=True)
+os.makedirs('results/processed/formal', exist_ok=True)
 
 GERMAN_COLUMNS = [
     'status_checking', 'duration_months', 'credit_history', 'purpose', 'credit_amount',
@@ -152,6 +154,7 @@ def reverse_decode_solution(numeric_meta, cat_group_ranges, vars_x, solver_model
 
 
 def main():
+    start_time = time.perf_counter()
     df = load_german()
     X_all = df.drop(columns=[LABEL])
     y_all = df[LABEL].astype(int)
@@ -253,6 +256,21 @@ def main():
                 sat_counterexample = pair_info
             pair_results.append(pair_info)
 
+    runtime_seconds = round(
+        time.perf_counter() - start_time,
+        4
+    )
+
+    ce_found = sum(
+        1
+        for p in pair_results
+        if p["status"] == "sat"
+    )
+
+    ce_bound = 100
+
+    timeout = False
+
     result = {
         'dataset': 'german_credit',
         'model': 'Logistic Regression',
@@ -261,6 +279,10 @@ def main():
         'fairness_property': 'existence of two inputs equal on all non-sensitive transformed features, different on sex, with different model predictions',
         'overall_status': 'SAT' if found_violation else 'UNSAT',
         'pair_checks': pair_results,
+        'runtime_seconds': runtime_seconds,
+        'timeout': timeout,
+        'ce_bound': ce_bound,
+        'ce_found': ce_found,
         'first_counterexample': sat_counterexample,
         'logreg_intercept': float(intercept),
         'n_train_rows': int(len(train_df)),

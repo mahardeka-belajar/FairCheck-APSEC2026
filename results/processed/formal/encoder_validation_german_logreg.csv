@@ -1,0 +1,2 @@
+dataset,model,samples_checked,mismatch_count,match_rate
+german_credit,Logistic Regression,300,0,100.0

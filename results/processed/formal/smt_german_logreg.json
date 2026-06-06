@@ -11,7 +11,7 @@
       "target_group": "male",
       "status": "sat",
       "score_x": "0",
-      "score_y": "3727060284807609/40000000000000000",
+      "score_y": "23340748445967879/250000000000000000",
       "prediction_x": 0,
       "prediction_y": 1,
       "example_x": {
@@ -19,7 +19,7 @@
         "credit_amount": 250.00000000128057,
         "installment_rate": 1.0000000000007323,
         "present_residence_since": 1.0000000000008276,
-        "age_years": 40.00368622547428,
+        "age_years": 40.32392667045921,
         "existing_credits": 1.4142857142857144,
         "people_liable": 1.1628571428571428,
         "status_checking": "A13",
@@ -42,7 +42,7 @@
         "credit_amount": 250.00000000128057,
         "installment_rate": 1.0000000000007323,
         "present_residence_since": 1.0000000000008276,
-        "age_years": 40.00368622547428,
+        "age_years": 40.32392667045921,
         "existing_credits": 1.4142857142857144,
         "people_liable": 1.1628571428571428,
         "status_checking": "A13",
@@ -67,12 +67,16 @@
       "status": "sat"
     }
   ],
+  "runtime_seconds": 0.2988,
+  "timeout": false,
+  "ce_bound": 100,
+  "ce_found": 2,
   "first_counterexample": {
     "source_group": "female",
     "target_group": "male",
     "status": "sat",
     "score_x": "0",
-    "score_y": "3727060284807609/40000000000000000",
+    "score_y": "23340748445967879/250000000000000000",
     "prediction_x": 0,
     "prediction_y": 1,
     "example_x": {
@@ -80,7 +84,7 @@
       "credit_amount": 250.00000000128057,
       "installment_rate": 1.0000000000007323,
       "present_residence_since": 1.0000000000008276,
-      "age_years": 40.00368622547428,
+      "age_years": 40.32392667045921,
       "existing_credits": 1.4142857142857144,
       "people_liable": 1.1628571428571428,
       "status_checking": "A13",
@@ -103,7 +107,7 @@
       "credit_amount": 250.00000000128057,
       "installment_rate": 1.0000000000007323,
       "present_residence_since": 1.0000000000008276,
-      "age_years": 40.00368622547428,
+      "age_years": 40.32392667045921,
       "existing_credits": 1.4142857142857144,
       "people_liable": 1.1628571428571428,
       "status_checking": "A13",
@@ -122,7 +126,7 @@
       "sex": "male"
     }
   },
-  "logreg_intercept": 1.6299344280280765,
+  "logreg_intercept": 1.63027876669799,
   "n_train_rows": 700,
   "n_test_rows": 300
 }
