@@ -2,22 +2,63 @@
 
 **FairCheck-CI: SMT-Based Fairness Regression Testing for AI Decision Pipelines**
 
-This repository accompanies the APSEC 2026 SEIP submission on **FairCheck-CI**, an SMT-based fairness regression testing framework for tabular AI decision pipelines. The artifact provides the implementation, experimental scripts, processed results, and CI-style evidence used in the paper.
+This repository accompanies the APSEC 2026 Software Engineering in Practice (SEIP) submission on **FairCheck-CI**, an SMT-based fairness regression testing framework for tabular AI decision pipelines. The artifact contains the implementation, datasets, experimental scripts, formal verification components, CI-style automation, and processed results used to support the claims reported in the manuscript.
 
-## 1. Artifact Overview
+---
 
-FairCheck-CI operationalizes fairness assessment as a regression-testing workflow. The repository includes:
+# 1. Artifact Overview
+
+FairCheck-CI operationalizes fairness assessment as a regression-testing workflow that combines empirical screening, formal verification, diagnostic reporting, and CI-style decision support.
+
+The repository includes:
 
 * empirical fairness screening scripts,
 * SMT-based formal verification scripts,
-* encoder equivalence validation,
-* counterexample extraction and root-cause diagnostics,
-* a CI gate that maps solver outcomes to model-promotion decisions,
-* processed results used in the manuscript.
+* model-to-SMT encoder validation,
+* counterexample extraction,
+* root-cause diagnostics,
+* CI gate automation,
+* processed experimental results,
+* reproducibility artifacts.
 
-The paper evaluates the framework on **three datasets** and **three model classes**, yielding **nine formal verification checks** in total.
+The evaluation reported in the paper covers:
 
-## 2. Repository Structure
+* **3 datasets**
+* **3 model classes**
+* **3 empirical screening baselines**
+* **9 SMT verification checks**
+
+---
+
+# 2. Artifact Snapshot
+
+| Item                          | Value |
+| ----------------------------- | ----- |
+| Datasets                      | 3     |
+| Model Classes                 | 3     |
+| Empirical Baselines           | 3     |
+| SMT Verification Checks       | 9     |
+| PASS Results                  | 6     |
+| FAIL Results                  | 3     |
+| WARNING Results               | 0     |
+| Encoder Validation Match Rate | 100%  |
+| Counterexamples Detected      | 3     |
+
+## Key Findings
+
+The processed results included in this repository reveal a consistent verification pattern across all evaluated datasets.
+
+| Model Class         | Verification Outcome |
+| ------------------- | -------------------- |
+| Decision Tree       | PASS                 |
+| Rule List           | PASS                 |
+| Logistic Regression | FAIL                 |
+
+All reported formal counterexamples were associated with Logistic Regression models. Decision Tree and Rule List models satisfied the evaluated fairness property across all datasets included in the study.
+
+---
+
+# 3. Repository Structure
 
 ```text
 FairCheck-APSEC2026/
@@ -46,60 +87,141 @@ FairCheck-APSEC2026/
 │   ├── rootcause_report_builder.py
 │   ├── smt_check_*.py
 │   └── aggregate_all_results.py
-├── notes/
-│   └── experiment_log.md
 ├── results/
 │   └── processed/
 │       ├── ci/
 │       ├── empirical/
 │       └── formal/
+├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
 
-## 3. Datasets and Model Classes
+---
 
-The artifact evaluates FairCheck-CI on the following tabular decision-making tasks:
+# 4. Datasets and Model Classes
 
-* **Scholarship**: scholarship eligibility prediction
-* **Adult Income**: income classification
-* **German Credit**: credit risk classification
+The artifact evaluates FairCheck-CI on three tabular decision-making datasets.
 
-The following model classes are used throughout the evaluation:
+## Datasets
 
-* **Decision Tree**
-* **Rule List**
-* **Logistic Regression**
+### Scholarship
 
-The empirical layer additionally compares three screening baselines:
+A scholarship eligibility prediction dataset used to evaluate fairness properties in educational decision-making.
 
-* **Random Pair Sampling**
-* **Counterfactual Augmentation**
-* **Boundary-Focused Sampling**
+### Adult Income
 
-## 4. Main Claims Supported by the Artifact
+The Adult Income dataset used for income classification and fairness analysis.
 
-The repository supports the core claims reported in the paper:
+### German Credit
 
-1. **Encoder equivalence**: the SMT encoding matches the Python model predictions across all evaluated dataset-model combinations.
-2. **Formal verification results**: the nine SMT checks yield a consistent pattern of PASS/FAIL outcomes.
-3. **CI gate behavior**: solver outcomes are translated into model-promotion decisions.
-4. **Developer-facing diagnostics**: counterexamples are summarized in a root-cause report.
+The German Credit dataset used for credit-risk classification and fairness assessment.
 
-### Observed processed results
+## Model Classes
 
-From the processed outputs included in this artifact:
+The following model classes are evaluated throughout the study:
 
-* **Formal solver summary**: 9 checks in total, with **6 PASS**, **3 FAIL**, and **0 WARNING**.
-* **CI gate status**: overall **FAIL** with exit code **1**, reflecting the presence of three failing Logistic Regression checks.
-* **Encoder validation**: all evaluated encoder checks report **100% match** with **0 mismatches**.
-* **Counterexample report**: all reported formal counterexamples occur in the Logistic Regression experiments.
+* Decision Tree
+* Rule List
+* Logistic Regression
 
-These results are stored in the `results/processed/formal/` and `results/processed/ci/` directories.
+## Empirical Screening Baselines
 
-## 5. File Locations for Key Evidence
+The empirical layer compares three fairness-screening approaches:
 
-### Formal verification evidence
+* Random Pair Sampling
+* Counterfactual Augmentation
+* Boundary-Focused Sampling
+
+---
+
+# 5. Main Claims Supported by the Artifact
+
+The repository supports the following claims reported in the manuscript.
+
+## Claim 1: Encoder Equivalence
+
+The SMT encoding faithfully reproduces the behavior of the trained Python models across all evaluated dataset-model combinations.
+
+Evidence:
+
+* `results/processed/formal/encoder_validation.csv`
+* `results/processed/formal/encoder_validation.md`
+
+## Claim 2: Formal Fairness Verification
+
+The SMT verification layer successfully identifies fairness violations through counterexample generation.
+
+Evidence:
+
+* `results/processed/formal/formal_solver_summary.csv`
+* `results/processed/formal/formal_counterexample_report.csv`
+
+## Claim 3: CI Gate Integration
+
+Formal verification outcomes can be translated into CI-style model-promotion decisions.
+
+Evidence:
+
+* `results/processed/ci/ci_gate_status.json`
+* `results/processed/ci/ci_gate_report.md`
+
+## Claim 4: Developer-Facing Diagnostics
+
+Detected fairness violations can be summarized as actionable root-cause reports.
+
+Evidence:
+
+* `results/processed/formal/rootcause_report.csv`
+
+---
+
+# 6. Processed Results Summary
+
+The processed outputs currently included in the repository show the following results.
+
+## Formal Verification Summary
+
+| Outcome | Count |
+| ------- | ----- |
+| PASS    | 6     |
+| FAIL    | 3     |
+| WARNING | 0     |
+| TOTAL   | 9     |
+
+## CI Gate Summary
+
+| Metric         | Value |
+| -------------- | ----- |
+| Overall Status | FAIL  |
+| Exit Code      | 1     |
+| Passed Models  | 6     |
+| Failed Models  | 3     |
+| Warning Models | 0     |
+
+## Encoder Validation Summary
+
+| Metric                     | Value |
+| -------------------------- | ----- |
+| Dataset–Model Combinations | 9     |
+| Match Rate                 | 100%  |
+| Mismatches                 | 0     |
+
+## Counterexample Summary
+
+Three formal counterexamples were detected.
+
+All reported counterexamples occurred in Logistic Regression models:
+
+* Scholarship Dataset
+* Adult Income Dataset
+* German Credit Dataset
+
+---
+
+# 7. File Locations for Key Evidence
+
+## Formal Verification Evidence
 
 * `results/processed/formal/formal_solver_summary.csv`
 * `results/processed/formal/formal_solver_summary.json`
@@ -111,32 +233,34 @@ These results are stored in the `results/processed/formal/` and `results/process
 * `results/processed/formal/encoder_validation.csv`
 * `results/processed/formal/encoder_validation.md`
 
-### CI evidence
+## CI Evidence
 
 * `results/processed/ci/ci_gate_status.json`
 * `results/processed/ci/ci_gate_report.md`
 * `results/processed/ci/ci_fairness_demo_summary.json`
 * `results/processed/ci/ci_fairness_demo_report.md`
 
-### Empirical screening evidence
+## Empirical Screening Evidence
 
 * `results/processed/empirical/`
 
-## 6. Reproducibility Instructions
+---
 
-### 6.1 Environment setup
+# 8. Reproducibility Instructions
 
-Install the Python dependencies listed in `requirements.txt`.
+## Environment Setup
+
+Install the project dependencies.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-If your environment requires a dedicated virtual environment, create one first and activate it before installing dependencies.
+If desired, create and activate a dedicated Python virtual environment before installing dependencies.
 
-### 6.2 Run empirical experiments
+---
 
-The main experiment entry points are located in the `experiments/` directory.
+## Run Empirical Experiments
 
 ```bash
 python experiments/run_scholarship.py
@@ -144,93 +268,106 @@ python experiments/run_adult.py
 python experiments/run_german_fixed.py
 ```
 
-### 6.3 Run baseline screening experiments
+---
 
-The repository provides scripts for the three empirical baselines used in the paper.
+## Run Baseline Screening Experiments
 
 ```bash
 python experiments/baseline_random_pair_sampling_3models.py
+
 python experiments/baseline_counterfactual_augmentation_3models.py
+
 python experiments/baseline_boundary_focused_sampling_3models.py
 ```
 
-### 6.4 Run SMT verification
+---
 
-The formal verification layer is implemented as nine dataset-model checks.
+## Run SMT Verification
 
 ```bash
 python experiments/smt_check_scholarship_tree.py
 python experiments/smt_check_scholarship_rulelist.py
 python experiments/smt_check_scholarship_logreg.py
+
 python experiments/smt_check_adult_tree.py
 python experiments/smt_check_adult_rulelist.py
 python experiments/smt_check_adult_logreg.py
+
 python experiments/smt_check_german_tree.py
 python experiments/smt_check_german_rulelist.py
 python experiments/smt_check_german_logreg.py
 ```
 
-### 6.5 Build result summaries
+---
 
-After running the experiments, aggregate the outputs into the summary files used by the manuscript.
+## Build Result Summaries
 
 ```bash
 python experiments/encoder_validation_summary_builder.py
+
 python experiments/formal_solver_summary_builder.py
+
 python experiments/formal_counterexample_report_builder.py
+
 python experiments/rootcause_report_builder.py
+
 python experiments/aggregate_all_results.py
 ```
 
-### 6.6 Run the CI gate
+---
 
-The CI gate consumes the formal verification outputs and maps them into model-promotion decisions.
+## Run the CI Gate
 
 ```bash
 python ci/ci_gate_runner.py
 ```
 
-The repository also includes a GitHub Actions workflow under `.github/workflows/faircheck-ci.yml`.
+The repository also includes a GitHub Actions workflow located at:
 
-## 7. Interpretation of CI Outcomes
+```text
+.github/workflows/faircheck-ci.yml
+```
 
-FairCheck-CI uses the following decision policy:
+---
 
-* **UNSAT → PASS**: no counterexample is found within the encoded model, transformed feature space, selected sensitive attribute, domain predicate, and fairness property.
-* **SAT → FAIL**: at least one counterexample is found.
-* **TIMEOUT / inconclusive → WARNING**: the fairness property cannot be confirmed within the solver budget.
+# 9. Interpretation of CI Outcomes
 
-This interpretation is intentionally scoped to the encoded verification setting and should not be read as a universal fairness guarantee.
+FairCheck-CI maps SMT solver outcomes into CI-style decisions.
 
-## 8. Current Artifact Status
+| SMT Result             | CI Decision |
+| ---------------------- | ----------- |
+| UNSAT                  | PASS        |
+| SAT                    | FAIL        |
+| TIMEOUT / Inconclusive | WARNING     |
 
-At the time of this repository snapshot, the processed results indicate the following:
+Interpretation:
 
-* **Formal solver summary**: PASS = 6, FAIL = 3, WARNING = 0
-* **CI gate status**: overall FAIL, exit code 1
-* **Encoder validation**: 100% match, 0 mismatches
-* **Counterexamples**: concentrated in the Logistic Regression models
+* **PASS (UNSAT)** indicates that no counterexample was found under the encoded verification conditions.
+* **FAIL (SAT)** indicates that at least one fairness counterexample was found.
+* **WARNING** indicates that verification could not be completed within the configured resource limits.
 
-These outcomes are consistent with the reported figures and tables in the manuscript.
+This interpretation is intentionally scoped to the encoded verification setting and should not be interpreted as a universal guarantee of fairness.
 
-## 9. Notes for Reviewers and Artifact Evaluators
+---
 
-This repository is organized as a research artifact for the APSEC 2026 SEIP submission. The intended use is to support:
+# 10. Notes for Reviewers and Artifact Evaluators
+
+This repository is organized as a research artifact accompanying the APSEC 2026 SEIP submission.
+
+The artifact is intended to support:
 
 * reproducibility of the reported experiments,
-* inspection of the formal SMT verification pipeline,
-* validation of the encoder equivalence checks,
-* verification of CI gate behavior,
-* examination of counterexample and root-cause diagnostics.
+* inspection of the SMT verification workflow,
+* validation of encoder equivalence,
+* examination of generated counterexamples,
+* inspection of root-cause diagnostics,
+* evaluation of CI gate behavior.
 
-## 10. Citation
+All processed outputs included in the repository correspond to the evidence reported in the manuscript.
 
-If you use this artifact in academic work, please cite the FairCheck-CI paper associated with APSEC 2026 SEIP.
+---
 
-## 11. License
 
-Unless otherwise specified in a separate license file, the repository contents should be treated according to the policies of the hosting project and the authors' submission requirements.
+# 11. Contact
 
-## 12. Contact
-
-For questions regarding the artifact, please contact the corresponding author or maintainers listed in the paper.
+For questions regarding the artifact, please contact the corresponding author identified in the associated manuscript.
