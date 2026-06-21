@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# APSEC artifact cleanup
+.DS_Store
+repo_tree.txt
+repo_files.txt
